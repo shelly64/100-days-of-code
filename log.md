@@ -17,6 +17,17 @@ And, most important thing is that I'm feeling really great about this challenge!
 
 **Link to work:** [Flock PR](https://github.com/cjqhenry14/Flock/pull/5)
 
+### Day 2: January 4, 2017
+
+**Today's Progress:** Registered the app using a customized class and started working the Input Form of a topic
+
+**Thoughts:** Work slowly because the design work hasn't done properly. Had to spend some time on thinking what to do hand how to do.
+
+**Question:** when I register the app in `index.ios.js`, it works with path `./js/FlockApp.js` but doesn't work with `Flock/client/js/FlockApp.js`. Why?
+
+**Link to work:** [Flock app](https://github.com/shelly64/Flock)
+
+
 template
 ### Day
 
