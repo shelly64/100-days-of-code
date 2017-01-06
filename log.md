@@ -27,6 +27,14 @@ And, most important thing is that I'm feeling really great about this challenge!
 
 **Link to work:** [Flock app](https://github.com/shelly64/Flock)
 
+### Day 3: January 5, 2017
+
+**Today's Progress:** Used the React Native modal in the app, but still haven't found the correct way to control it from parent component.
+
+**Thoughts:** spent half hour on Github stuff. Well, it is also an essential skill of an open source programmer, haha.
+
+**Link to work:** [Flock app](https://github.com/shelly64/Flock)
+
 
 template
 ### Day
